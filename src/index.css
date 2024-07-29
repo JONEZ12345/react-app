@@ -1,0 +1,9 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.lamp{
+    background-color: aqua;
+    color: grey;
+    font-size: larger;
+}

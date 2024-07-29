@@ -1,0 +1,10 @@
+.dead {
+  background-color: rgb(108, 131, 151);
+  color: aqua;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+input{
+    display: flex;
+}
